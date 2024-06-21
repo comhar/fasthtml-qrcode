@@ -1,0 +1,2 @@
+python-fasthtml==0.0.16
+qrcode==7.4.2
